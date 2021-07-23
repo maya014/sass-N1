@@ -1,0 +1,22 @@
+{
+  "name": "sass-n1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maya014/sass-N1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maya014/sass-N1/issues"
+  },
+  "homepage": "https://github.com/maya014/sass-N1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

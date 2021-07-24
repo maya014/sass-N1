@@ -1,5 +1,6 @@
 body{
-    background-image: url("../img/1.jpg");
+    background-image: url("../img/1.png");
+    
     .wraper{
         display: flex;
         justify-content: space-around;
@@ -9,8 +10,9 @@ body{
     font-weight: bold;
         .col{
             padding: 15px;
-            width: 350px;
+            width: 330px;
             height: 250px;
+            border-bottom: 1px solid rgb(49, 43, 43);
             .title{
                 font-size: 40px;
             }

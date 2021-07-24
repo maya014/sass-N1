@@ -54,7 +54,7 @@ blockquote:after, q:after {
 }
 
 body {
-  background-image: url("../img/1.jpg");
+  background-image: url("../img/1.png");
 }
 body .wraper {
   display: flex;
@@ -66,8 +66,9 @@ body .wraper {
 }
 body .wraper .col {
   padding: 15px;
-  width: 350px;
+  width: 330px;
   height: 250px;
+  border-bottom: 1px solid #312b2b;
 }
 body .wraper .col .title {
   font-size: 40px;

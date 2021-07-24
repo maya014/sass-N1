@@ -1,0 +1,36 @@
+.d-header{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    .logo{
+    font-size: 35px;
+    padding-left: 15px;
+    text-transform: uppercase;
+    a{
+        color: white;
+        list-style: none;
+        text-decoration: none;
+    }
+    }
+    .nav-bar{
+        display: flex;
+        align-items: center;
+        padding-right: 50px;
+        text-transform: uppercase;
+        li{
+            color: white;
+            padding-right: 10%;
+            a{
+                text-decoration: none;
+                list-style: none;
+                font-size: 20px;
+                color: white;
+            }
+            a:hover{
+                background-color: rgb(74, 200, 238);
+            }
+        }
+    }
+}
